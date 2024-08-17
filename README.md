@@ -19,7 +19,7 @@ Set-ExecutionPolicy RemoteSigned -Scope Process -Force
 ```bash
 .\qudi_from_git.ps1
 ```
-### Step 5: Activate the Environment 
+### Step 5: Open your IDE and Activate the Environment 
 ```bash
 .\qudi-environment\Scripts\Activate
 ```
