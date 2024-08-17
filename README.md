@@ -9,9 +9,9 @@ Step-by-step instructions on how to install the project.
 ```bash
 git clone https://github.com/George-Elhamy/Qudi_Installer.git
 ```
-### Step 2: Open a Powershell terminal in the directory of installation 
+### Step 2:  
 
-### Step 3: Set the execution policy for the current session to allow the script to run
+### Step 3: Open a Powershell terminal and Set the execution policy to allow the script to run
 ```bash
 Set-ExecutionPolicy RemoteSigned -Scope Process -Force
 ```
