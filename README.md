@@ -21,10 +21,9 @@ Set-ExecutionPolicy RemoteSigned -Scope Process -Force
 ```
 ### Step 5: Activate the Environment 
 ```bash
-cd qudi-environment/scripts
-.\Activate.ps1
+.\qudi-environment\Scripts\Activate
 ```
 ### Step 6: Start Qudi 
 ```bash
-qudi start
+qudi 
 ```
